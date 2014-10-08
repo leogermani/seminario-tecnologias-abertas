@@ -41,6 +41,7 @@ Possíveis Convidados
 * Ministério da Justiça
 * Ministério do Planejamento
 * Instituto TIM
+* Unicef
 * Portal do Software Público
 * Governo aberto prefeitura de São Paulo
 * Lung
