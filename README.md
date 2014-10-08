@@ -28,27 +28,23 @@ Serão convidadas pessoas de renome de dentro e fora do país, assim como pessoa
 Possíveis Convidados
 --------------------
 
-Painel principal
-++++++++++++++++
+###Painel principal
+* Manuel Castells
+* Boaventura de Sousa Santos
+* Gilberto Gil
+* Michel Bauwens
 
-Manuel Castells
-Boaventura de Sousa Santos
-Gilberto Gil
-Michel Bauwens
-
-Eixos
-+++++
-
-Gabinete Digital RS
-Presidência da República - participatório
-Ministério da Cultura
-Ministério da Justiça
-Ministério do Planejamento
-Instituto TIM
-Portal do Software Público
-Governo aberto prefeitura de São Paulo
-Lung
-Hacklab
-Colivre
-Ecolab
-outras empresas e cooperativas
+###Eixos
+* Gabinete Digital RS
+* Presidência da República - participatório
+* Ministério da Cultura
+* Ministério da Justiça
+* Ministério do Planejamento
+* Instituto TIM
+* Portal do Software Público
+* Governo aberto prefeitura de São Paulo
+* Lung
+* Hacklab
+* Colivre
+* Ecolab
+* outras empresas e cooperativas
