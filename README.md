@@ -23,3 +23,32 @@ O seminário
 O seminário será dividido em dois grandes eixos principais: "Políticas Digitais", que discutirá as novas formas de interação entre governo e sociedade civil através dos meios digitais e "O Desafio da Colaboração" que discutirá a importância da compreensão do estímulo e desenvolvimento de tecnologias livres e os caminhos práticos para viabilizar a colaboração entre diferentes entes governamentais e sociedade civil na construção dessas tecnologias.
 
 Serão convidadas pessoas de renome de dentro e fora do país, assim como pessoas que estão na "linha de frente" implementando soluções e encarando esses desafios no seu dia a dia, dentro ou fora do governo
+
+
+Possíveis Convidados
+--------------------
+
+Painel principal
+++++++++++++++++
+
+Manuel Castells
+Boaventura de Sousa Santos
+Gilberto Gil
+Michel Bauwens
+
+Eixos
++++++
+
+Gabinete Digital RS
+Presidência da República - participatório
+Ministério da Cultura
+Ministério da Justiça
+Ministério do Planejamento
+Instituto TIM
+Portal do Software Público
+Governo aberto prefeitura de São Paulo
+Lung
+Hacklab
+Colivre
+Ecolab
+outras empresas e cooperativas
