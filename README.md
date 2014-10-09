@@ -40,6 +40,7 @@ Possíveis Convidados
 * Ministério da Cultura
 * Ministério da Justiça
 * Ministério do Planejamento
+* CGU
 * Instituto TIM
 * Unicef
 * Portal do Software Público
